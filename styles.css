@@ -1,0 +1,17 @@
+.profile{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+/*   border: 2px solid black; */
+}
+
+.me{
+  margin-left: 45%;
+}
+
+.img{
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+}
